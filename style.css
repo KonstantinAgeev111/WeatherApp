@@ -7,4 +7,17 @@
     font-family: "Roboto Condensed", sans-serif;
 }
 
+body{
+    display: flex;
+    height: 1080px;
+    align-items: center;
+    justify-content: center;
+    background-color: #EE82EE;
+}
 
+.container{
+    width: 320px;
+    height: auto;
+    border-radius: 16px;
+    background: #fff;
+}
