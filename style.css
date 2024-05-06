@@ -21,3 +21,11 @@ body{
     border-radius: 16px;
     background: #fff;
 }
+
+.searchInput{
+    width: 100%;
+    display: flex;
+    padding: 16px;
+    justify-content: center;
+}
+
